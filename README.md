@@ -33,3 +33,15 @@ npm run build
 ```sh
 npm run lint
 ```
+
+VUE 3 START 
+command : npm init vue@latest
+
+VUE JS DATA TABLE USING THIS REPOSITORY
+https://github.com/HC200ok/vue3-easy-data-table
+
+VUE JS AG-GRID 
+https://github.com/ag-grid/ag-grid
+
+Vuetify Vuejs Laravel Admin Template
+https://themeselection.com/item/sneat-free-vuetify-vuejs-laravel-admin-template/
